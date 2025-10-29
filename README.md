@@ -1,2 +1,2 @@
-# mi-primer-repositorioo
-Mi primer repo de un crack
+# mi-primer-repositorio
+Mi primer repo
